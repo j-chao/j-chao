@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin Chao</title>
+    <link>https://j-chao.github.io/j-chao/</link>
+    <description>Recent content on Justin Chao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Nov 2017 11:19:06 -0400</lastBuildDate>
+    
+	<atom:link href="https://j-chao.github.io/j-chao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Vim</title>
+      <link>https://j-chao.github.io/j-chao/posts/learningvim/</link>
+      <pubDate>Wed, 08 Nov 2017 11:19:06 -0400</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/posts/learningvim/</guid>
+      <description>Recently, I gave a presentation on learning Vim. Below is the slide deck that I used.
+ </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://j-chao.github.io/j-chao/posts/my-first-post/</link>
+      <pubDate>Mon, 09 Oct 2017 16:52:05 -0400</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/posts/my-first-post/</guid>
+      <description>Hello World!
+This is going to be my attempt at a blog where I can share some tips that I&amp;rsquo;ve learned so far in my short career, but to be honest it might be more of a place where I can keep notes that I can refer back to later in the future. 😃</description>
+    </item>
+    
+  </channel>
+</rss>
