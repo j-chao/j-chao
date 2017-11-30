@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://j-chao.github.io/j-chao/posts/scrum_master/</loc>
+    <lastmod>2017-11-28T06:31:22-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://j-chao.github.io/j-chao/posts/learningvim/</loc>
     <lastmod>2017-11-08T11:19:06-04:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   
   <url>
     <loc>https://j-chao.github.io/j-chao/</loc>
-    <lastmod>2017-11-08T11:19:06-04:00</lastmod>
+    <lastmod>2017-11-28T06:31:22-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://j-chao.github.io/j-chao/posts/</loc>
-    <lastmod>2017-11-08T11:19:06-04:00</lastmod>
+    <lastmod>2017-11-28T06:31:22-06:00</lastmod>
     <priority>0</priority>
   </url>
   
