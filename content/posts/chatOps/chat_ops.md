@@ -34,5 +34,5 @@ be difficult to accomplish. In turn, these values improve feedback loops between
 information sharing across the team, and ultimately imcreases team dynamics.
 
 Best of all, this aggregation of tools and processes revolves around, and is driven by conversation: the foundational
-force that propels teamwork and progress.
-
+force that propels teamwork and progress.A
+![image]("./profile.png")
