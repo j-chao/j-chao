@@ -1,8 +1,17 @@
----
-title: "Conversation-driven Development"
-date: 2017-12-05T11:51:24-05:00
-draft: true
----
++++
+author = ""
+categories = ["DevOps", "ChatOps"]
+date = "2017-11-10"
+description = ""
+featured = ""
+featuredalt = ""
+featuredpath = ""
+linktitle = ""
+title = "Accelerating DevOps with ChatOps"
+type = "post"
+
++++
+
 
 The way we communicate has changed over the yaers, and today, it's no secret that millennials are spending more time
 texting than they are talking with phones.
@@ -34,5 +43,5 @@ be difficult to accomplish. In turn, these values improve feedback loops between
 information sharing across the team, and ultimately imcreases team dynamics.
 
 Best of all, this aggregation of tools and processes revolves around, and is driven by conversation: the foundational
-force that propels teamwork and progress.A
-![image]("./profile.png")
+force that propels teamwork and progress.
+![img](simpledev.jpeg)

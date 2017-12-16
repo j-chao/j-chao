@@ -1,41 +1,171 @@
 baseurl = "https://j-chao.github.io/j-chao/"
-title = "Justin Chao"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
-theme = "mainroad"
-disqusShortname = "https-j-chao-github-io-j-chao" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+title = "SimpleDev"
+theme = "hugo-future-imperfect"
+preserveTaxonomyNames = true
+paginate = 5
+disqusShortname = "https-j-chao-github-io-j-chao"
+googleAnalytics = ""
+pluralizeListTitles = false
 enableEmoji = true
 
-[Author] # Used in authorbox
-    name = "Justin Chao"
-    bio = "Justin is an emerging software engineer, who is currently fascinated with understanding how engineering  \
+[params]
+  # Sets the meta tag description
+  description          = "A collection of ideas to drive the future of software development."
+  # Sets the navbarTitle that appears in the top left of the navigation bar
+  navbarTitle          = "SimpleDev"
+  # Sets where "View More Posts" links
+  viewMorePostLink     = "/blog/"
+
+# Optional Params
+  # Sets navbarTitle to match the section of the website
+  dynamicTitles        = true
+  # Sets RSS icons to appear on the sidebar with the social media buttons
+  rssAppearAtTop       = false
+  rssAppearAtBottom    = false
+  # Sets Social Media icons to appear on the sidebar
+  socialAppearAtTop    = true
+  socialAppearAtBottom = true
+  # Sets Categories to sort by number of posts instead of alphabetical
+  categoriesByCount    = true
+  # Sets Estimated Reading Time to appear in post headers
+  includeReadingTime   = true
+  # Sets the Favicon and Version for the site. Default support is for
+  # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
+  # These are stored in the favicon folder. See the following for more information:
+  # https://github.com/audreyr/favicon-cheat-sheet
+  loadFavicon          = true
+  faviconVersion       = ""
+  # Sets Social Share links to appear on posts
+  socialShare          = true
+  # Load custom CSS or JavaScript files. The variable is an array so that you
+  # can load multiple files if necessary. You can also load the standard theme
+  # files by adding the value, "default".
+  # customCSS            = ["default", "/path/to/file"]
+  # customJS             = ["default", "/path/to/file"]
+  customCSS            = ["default"]
+  customJS             = ["default"]
+
+# Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
+# due to its ease of use. Feel free to check out both and decide what you would
+# prefer to use. See Staticman.yml for additional settings.
+[params.staticman]
+  # Sets Statiman to be active
+  staticman = false
+  # Sets the location for Staticman to connect to
+  username  = ""
+  repo      = ""
+  branch    = ""
+
+  [params.staticman.recaptcha]
+    sitekey = "SITE_KEY"
+    secret  = "ENCRYPTED_SECRET"
+
+  # These are optional params related to the sidebar. They are recommended, but not
+  # required for proper functionality. HTML is supported within the params.
+[params.intro]
+  header    = "SimpleDev"
+
+  paragraph = "A collection of ideas to drive the future of software development."
+
+  about     = "Justin is an emerging software engineer, who is currently fascinated with understanding how engineering \
             best practices help speed up development cycles and make developing software an enjoyable experience."
-    avatar = "img/avatar.png"
 
-[Params]
-    subtitle = "A collection of random thoughts and ideas" # Subtitle of your site. Used in site header
-    description = "A place for sharing ideas, or just keeping notes." # Description of your site. Used in meta description
-    opengraph = true # Enable OpenGraph if true
-    readmore = true # Show "Read more" button in list if true
-    leftsidebar = false # Move sidebar to the left side if true
-    authorbox = true # Show authorbox at bottom of pages if true
-    post_navigation = true # Show post navigation at bottom of pages if true
-    postSections = ["posts"] # the section pages to show on home page and the "Recent articles" widget
-    #postSections = ["blog", "news"] # alternative that shows more than one section's pages
-    #dateformat = "2006-01-02" # change the format of dates
+  # This appears at the top of the sidebar above params.intro.header.
+  # A width of less than 100px is recommended from a design perspective.
+  [params.intro.pic]
+    src       = "/img/main/profile.png"
+    # Sets Image to be a cirlce
+    circle    = false
+    # Sets Image to be Future Imperfect's hexagon
+    imperfect = true
+    width     = "100"
+    alt       = "Hugo Future Imperfect"
 
-[Params.widgets]
-    search = true # Enable "Search" widget
-    recent_articles = true # Enable "Recent articles" widget
-    recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
-    categories = true # Enable "Categories" widget
-    tags = true # Enable "Tags" widget
-    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+[params.postAmount]
+# Sets the number of recent posts to show in the sidebar. The default value is 5.
+    sidebar = 3
 
-    # Enable "Social" widget, if any of "social_*" set a value
-    # social_facebook = "username"
-    # social_twitter = "username"
-    social_linkedin = "justinchao"
-    social_github = "j-chao"
-    # social_email = "justin_chao@utexas.edu"
+# Sets the menu items in the navigation bar
+# Identifier prepends a Font Awesome icon to the menu item
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  identifier = "fa fa-home"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  identifier = "fa fa-id-card-o"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  identifier = "fa fa-newspaper-o"
+  weight = 3
+
+[[menu.main]]
+  name = "Technical How-To's"
+  url = "/how-to/"
+  identifier = "fa fa-list"
+  weight = 4
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  identifier = "fa fa-sitemap"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  identifier = "fa fa-envelope-o"
+  weight = 6
+
+# Sets Social Media icons to appear and link to your account. Value should be your
+# username unless otherwise noted. These are the icons affected by socialAppearAtTop
+# and socialAppearAtBottom.
+[social]
+  # Coding Communities
+  github          = "j-chao"
+  gitlab          = ""
+  stackoverflow   = "6865916" # User Number
+  bitbucket       = ""
+  jsfiddle        = ""
+  codepen         = ""
+  # Visual Art Communities
+  deviantart      = ""
+  flickr          = ""
+  behance         = ""
+  dribbble        = ""
+  # Publishing Communities
+  wordpress       = ""
+  medium          = ""
+  # Professional/Business Oriented Communities
+  linkedin        = "justinchao"
+  foursquare      = ""
+  xing            = ""
+  slideshare      = ""
+  # Social Networks
+  facebook        = ""
+  googleplus      = ""
+  reddit          = ""
+  quora           = ""
+  youtube         = ""
+  vimeo           = ""
+  whatsapp        = "" # WhatsApp Number
+    # WeChat and QQ need testing.
+    wechat          = ""
+    qq              = "" # User ID Number
+  instagram       = ""
+  tumblr          = ""
+  twitter         = ""
+  skype           = ""
+  snapchat        = ""
+  pinterest       = ""
+  telegram        = ""
+  vine            = ""
+  # Email
+  email           = "justin_chao@utexas.edu"

@@ -1,8 +1,17 @@
----
-title: "My First Experience as a Scrum Master"
-date: 2017-11-28T06:31:22-06:00
-draft: true
----
++++
+author = ""
+categories = ["Agile", "ScrumMaster"]
+date = "2017-11-20"
+description = ""
+featured = ""
+featuredalt = ""
+featuredpath = ""
+linktitle = ""
+title = "My First Experience as ScrumMaster"
+type = "post"
+
++++
+
 
 For the past few months, I've been a part of a development team that is running an Agile framework as its workflow.
 If you are not familiar with Agile or Scrum, I would encourage you to browse through some of the following articles:

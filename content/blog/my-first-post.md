@@ -1,9 +1,17 @@
----
-title: "My First Post"
-date: 2017-10-09T16:52:05-04:00
-<!--thumbnail: vim.jpg-->
-draft: true
----
++++
+author = ""
+categories = [""]
+date = "2014-04-02"
+description = ""
+featured = ""
+featuredalt = ""
+featuredpath = "date"
+linktitle = ""
+title = "Hello World!"
+type = "post"
+
++++
+
 
 Hello World!
 
