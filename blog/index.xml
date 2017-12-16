@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SimpleDev</title>
-    <link>https://j-chao.github.io/j-chao/</link>
-    <description>Recent content on SimpleDev</description>
+    <title>Blog on SimpleDev</title>
+    <link>https://j-chao.github.io/j-chao/blog/</link>
+    <description>Recent content in Blog on SimpleDev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://j-chao.github.io/j-chao/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://j-chao.github.io/j-chao/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -38,16 +38,6 @@
       <guid>https://j-chao.github.io/j-chao/blog/chatops/chat_ops/</guid>
       <description>The way we communicate has changed over the yaers, and today, it&amp;rsquo;s no secret that millennials are spending more time texting than they are talking with phones.
 According to a study by OpenMarket, 75% of millennials would forego the call function on their device as long as they were still able to text. A another study gives a few reasons as to why people are beginning to prefer texting over calls:</description>
-    </item>
-    
-    <item>
-      <title>Learning Vim</title>
-      <link>https://j-chao.github.io/j-chao/how-to/learningvim/</link>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://j-chao.github.io/j-chao/how-to/learningvim/</guid>
-      <description>Recently, I gave a presentation on learning Vim. Below is the slide deck that I used.
- </description>
     </item>
     
     <item>

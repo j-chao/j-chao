@@ -1,14 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Justin Chao</title>
+    <title>Categories on SimpleDev</title>
     <link>https://j-chao.github.io/j-chao/categories/</link>
-    <description>Recent content in Categories on Justin Chao</description>
+    <description>Recent content in Categories on SimpleDev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://j-chao.github.io/j-chao/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://j-chao.github.io/j-chao/categories/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile</title>
+      <link>https://j-chao.github.io/j-chao/categories/agile/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/categories/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airflow</title>
+      <link>https://j-chao.github.io/j-chao/categories/airflow/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/categories/airflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChatOps</title>
+      <link>https://j-chao.github.io/j-chao/categories/chatops/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/categories/chatops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://j-chao.github.io/j-chao/categories/devops/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETL</title>
+      <link>https://j-chao.github.io/j-chao/categories/etl/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/categories/etl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScrumMaster</title>
+      <link>https://j-chao.github.io/j-chao/categories/scrummaster/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/categories/scrummaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>https://j-chao.github.io/j-chao/categories/vim/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/categories/vim/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

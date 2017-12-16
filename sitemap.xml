@@ -3,39 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://j-chao.github.io/j-chao/posts/scrum_master/</loc>
-    <lastmod>2017-11-28T06:31:22-06:00</lastmod>
+    <loc>https://j-chao.github.io/j-chao/blog/scrum_master/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://j-chao.github.io/j-chao/posts/learningvim/</loc>
-    <lastmod>2017-11-08T11:19:06-04:00</lastmod>
+    <loc>https://j-chao.github.io/j-chao/blog/using_airflow/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://j-chao.github.io/j-chao/posts/my-first-post/</loc>
-    <lastmod>2017-10-09T16:52:05-04:00</lastmod>
+    <loc>https://j-chao.github.io/j-chao/blog/chatops/chat_ops/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/how-to/learningvim/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/blog/my-first-post/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://j-chao.github.io/j-chao/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/categories/agile/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/categories/airflow/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/blog/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/categories/chatops/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/categories/devops/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/categories/etl/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/how-to/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/categories/scrummaster/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://j-chao.github.io/j-chao/</loc>
-    <lastmod>2017-11-28T06:31:22-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://j-chao.github.io/j-chao/posts/</loc>
-    <lastmod>2017-11-28T06:31:22-06:00</lastmod>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://j-chao.github.io/j-chao/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://j-chao.github.io/j-chao/categories/vim/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

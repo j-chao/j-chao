@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile on SimpleDev</title>
+    <link>https://j-chao.github.io/j-chao/categories/agile/</link>
+    <description>Recent content in Agile on SimpleDev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://j-chao.github.io/j-chao/categories/agile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Experience as ScrumMaster</title>
+      <link>https://j-chao.github.io/j-chao/blog/scrum_master/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-chao.github.io/j-chao/blog/scrum_master/</guid>
+      <description>For the past few months, I&amp;rsquo;ve been a part of a development team that is running an Agile framework as its workflow. If you are not familiar with Agile or Scrum, I would encourage you to browse through some of the following articles:
+ &amp;ldquo;The Scrum Papers&amp;rdquo; by Jeff Sutherland  During this time, I&amp;rsquo;ve had the privilege of serving as a Scrum Master for my Scrum team. As part of my learning experience, I&amp;rsquo;ve been reading &amp;ldquo;The Scrum Field Guide&amp;rdquo; by Mitch Lacey with a group of my peers.</description>
+    </item>
+    
+  </channel>
+</rss>
