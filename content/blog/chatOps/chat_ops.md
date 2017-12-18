@@ -1,11 +1,11 @@
 +++
 author = ""
 categories = ["DevOps", "ChatOps"]
-date = "2017-11-10"
+date = "2017-12-10"
 description = ""
-featured = ""
+featured = "convo.png"
 featuredalt = ""
-featuredpath = ""
+featuredpath = "./blog/chatOps"
 linktitle = ""
 title = "Accelerating DevOps with ChatOps"
 type = "post"
@@ -44,4 +44,4 @@ information sharing across the team, and ultimately imcreases team dynamics.
 
 Best of all, this aggregation of tools and processes revolves around, and is driven by conversation: the foundational
 force that propels teamwork and progress.
-![img](simpledev.jpeg)
+

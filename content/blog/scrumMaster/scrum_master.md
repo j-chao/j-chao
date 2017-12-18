@@ -3,9 +3,9 @@ author = ""
 categories = ["Agile", "ScrumMaster"]
 date = "2017-11-20"
 description = ""
-featured = ""
+featured = "scrumMaster.png"
 featuredalt = ""
-featuredpath = ""
+featuredpath = "./blog/scrumMaster"
 linktitle = ""
 title = "My First Experience as ScrumMaster"
 type = "post"
@@ -26,35 +26,35 @@ Here are just a few of the things that I've learned along the way, given from th
 background is a developer:
 
 
-### Core Ideas
+# Core Ideas
 These are some of the core ideas that I've begun to internalize within myself and within the team:
 
-- Communication \
+#### Communication \
 Any type of relationship must be centered around communication. Open communication across team members will help
 decrease risk factors pertaining to project variables and unknowns. Consistent and frequent feedback loops between the
 development team and the customer will help reduce unwanted surprises and help keep the project on track. Clear release plans
 and team capabilities extrapolated from past velocities and capacities gives managements peace of mind (which reduces
 stress on everybody else).
 
-- Accountability \
+#### Accountability \
 A team that is openly communicating with each other helps keep each team member accountable to each other.
 Accountability ensures that commitments and promises are kept, and release milestones are met.
 
 
-- Trust across all parties \
+#### Trust across all parties \
 Given the above two conditions are met, it follows naturally that trust begins to develop across not just the team
 members, but with the customer and management as well. 
 As a fundamental building block in any relationship, trust between the development team and the customer ensures the integrity
 of the feedback loop, which is pivotal for iterative development.
 
 
-- Team Dynamics / Morale \
+#### Team Dynamics / Morale \
 If the relationship between the team, management, and customer is positive, then we can expect the team's morale to
 increase as well. A happy team with happy people results in an increase in team velocity and its ability to get work
 done. 
 
 
-- Adaptability \
+#### Adaptability \
 As a corollary to the above, a team must be able to adapt to changing business needs or team dynamics.
 Situations such as the addition of a new business need, a change in a release timeline, or a change in team members, can
 be detrimental to the team's morale if the team does not know how to actively adapt to the change, and can result in a
@@ -69,7 +69,7 @@ Some solutions to common issues that often plague teams can include any of the f
 
 
 
-### Easy to understand, difficult in practice
+# Easy to understand, difficult in practice
 The above core ideas may seem obvious to some, but actual implementation of them can be difficult to see.
 As creatures of habit, it can be difficult to change once we've been set down a path or specific mindset.
 Many times, as we walk further down a path, our vision begins to narrow and we can lose sight of the bigger picture.
@@ -83,7 +83,7 @@ an answer book that a team can follow. Instead, the team must be able to find wh
 only way to do that is to have a solid understanding of the underlying values that Agile expresses. 
 
 
-### Have a support group 
+# Have a support group 
 As with learning anything, I think that the most effective (and fun) ways of understanding any new material is through
 discussions with others. Having a group of peers who share your same ideas and values, can provide you with a wealth of
 differing perspectives from different experiences and teams. Maybe you'll even find a solution that works better for
@@ -93,7 +93,7 @@ implementation of Agile :smile:.
 
 
 
-### Experience trumps the classroom
+# Experience trumps the classroom
 While reading articles and books on Agile practices is good and essential towards developing a solid understanding of
 best practices, I believe that the best lessons are thought through experience.
 

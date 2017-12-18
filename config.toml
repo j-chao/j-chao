@@ -15,7 +15,7 @@ enableEmoji = true
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "SimpleDev"
   # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
+  viewMorePostLink     = "blog/"
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
@@ -74,7 +74,7 @@ enableEmoji = true
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/profile.png"
+    src       = "/about/profile.jpeg"
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
